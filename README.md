@@ -1,4 +1,6 @@
-suiluj <=> Julius
+# suiluj 🔄 Julius
 
-- GitHub organization: [juliusunscripted](https://github.com/juliusunscripted)
-- Website: [JuliusUnscripted.com](https://www.juliusunscripted.com)
+| Resources           | Links                                                              |
+|---------------------|--------------------------------------------------------------------|
+| GitHub organization | [github.com/juliusunscripted](https://github.com/juliusunscripted) |
+| Website             | [www.JuliusUnscripted.com](https://www.juliusunscripted.com)       |
